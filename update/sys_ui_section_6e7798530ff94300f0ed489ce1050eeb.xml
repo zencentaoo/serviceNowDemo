@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="  棚卸/廃棄情報" section_id="6e7798530ff94300f0ed489ce1050eeb" sys_domain="global" table="x_65262_market_asset_mst" version="3" view="a3">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>discon_date</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-19 07:03:06</sys_created_on>
+            <sys_id>7264ecd70ff94300f0ed489ce1050e45</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="  棚卸/廃棄情報" display_value="  棚卸/廃棄情報" name="x_65262_market_asset_mst" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">6e7798530ff94300f0ed489ce1050eeb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-19 07:03:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>disposal_hope</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-19 07:03:06</sys_created_on>
+            <sys_id>f264ecd70ff94300f0ed489ce1050e45</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="  棚卸/廃棄情報" display_value="  棚卸/廃棄情報" name="x_65262_market_asset_mst" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">6e7798530ff94300f0ed489ce1050eeb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-19 07:03:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>hope_reason</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-19 07:03:06</sys_created_on>
+            <sys_id>7664ecd70ff94300f0ed489ce1050e45</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="  棚卸/廃棄情報" display_value="  棚卸/廃棄情報" name="x_65262_market_asset_mst" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">6e7798530ff94300f0ed489ce1050eeb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-19 07:03:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>final_operation_month</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-19 07:03:06</sys_created_on>
+            <sys_id>f664ecd70ff94300f0ed489ce1050e45</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="  棚卸/廃棄情報" display_value="  棚卸/廃棄情報" name="x_65262_market_asset_mst" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">6e7798530ff94300f0ed489ce1050eeb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-19 07:03:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>part_output_final_month</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-19 07:03:06</sys_created_on>
+            <sys_id>7a64ecd70ff94300f0ed489ce1050e45</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="  棚卸/廃棄情報" display_value="  棚卸/廃棄情報" name="x_65262_market_asset_mst" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">6e7798530ff94300f0ed489ce1050eeb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-19 07:03:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>run_status_remarks</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-19 07:03:06</sys_created_on>
+            <sys_id>fa64ecd70ff94300f0ed489ce1050e45</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="  棚卸/廃棄情報" display_value="  棚卸/廃棄情報" name="x_65262_market_asset_mst" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">6e7798530ff94300f0ed489ce1050eeb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-19 07:03:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>jcr_own</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-19 07:03:06</sys_created_on>
+            <sys_id>7e64ecd70ff94300f0ed489ce1050e45</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="  棚卸/廃棄情報" display_value="  棚卸/廃棄情報" name="x_65262_market_asset_mst" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">6e7798530ff94300f0ed489ce1050eeb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-19 07:03:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>multiple_flag</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-19 07:03:06</sys_created_on>
+            <sys_id>fe64ecd70ff94300f0ed489ce1050e45</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="  棚卸/廃棄情報" display_value="  棚卸/廃棄情報" name="x_65262_market_asset_mst" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">6e7798530ff94300f0ed489ce1050eeb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-19 07:03:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>special_tooling</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-19 07:03:06</sys_created_on>
+            <sys_id>7264ecd70ff94300f0ed489ce1050e46</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="  棚卸/廃棄情報" display_value="  棚卸/廃棄情報" name="x_65262_market_asset_mst" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">6e7798530ff94300f0ed489ce1050eeb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-19 07:03:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>disposal_reasons</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-19 07:03:06</sys_created_on>
+            <sys_id>f264ecd70ff94300f0ed489ce1050e46</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="  棚卸/廃棄情報" display_value="  棚卸/廃棄情報" name="x_65262_market_asset_mst" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">6e7798530ff94300f0ed489ce1050eeb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-19 07:03:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-19 07:03:06</sys_created_on>
+            <sys_id>7664ecd70ff94300f0ed489ce1050e46</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="  棚卸/廃棄情報" display_value="  棚卸/廃棄情報" name="x_65262_market_asset_mst" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">6e7798530ff94300f0ed489ce1050eeb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-19 07:03:06</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cs_tooling_flag</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-19 07:03:06</sys_created_on>
+            <sys_id>f664ecd70ff94300f0ed489ce1050e46</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="  棚卸/廃棄情報" display_value="  棚卸/廃棄情報" name="x_65262_market_asset_mst" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">6e7798530ff94300f0ed489ce1050eeb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-19 07:03:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cs_tooling_storage_term</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-19 07:03:06</sys_created_on>
+            <sys_id>7a64ecd70ff94300f0ed489ce1050e46</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="  棚卸/廃棄情報" display_value="  棚卸/廃棄情報" name="x_65262_market_asset_mst" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">6e7798530ff94300f0ed489ce1050eeb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-19 07:03:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>disposal_confirm_month</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-19 07:03:06</sys_created_on>
+            <sys_id>fa64ecd70ff94300f0ed489ce1050e46</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="  棚卸/廃棄情報" display_value="  棚卸/廃棄情報" name="x_65262_market_asset_mst" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">6e7798530ff94300f0ed489ce1050eeb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-19 07:03:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cs_decision</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-19 07:03:06</sys_created_on>
+            <sys_id>7e64ecd70ff94300f0ed489ce1050e46</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="  棚卸/廃棄情報" display_value="  棚卸/廃棄情報" name="x_65262_market_asset_mst" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">6e7798530ff94300f0ed489ce1050eeb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-19 07:03:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cs_comments</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-19 07:03:06</sys_created_on>
+            <sys_id>fe64ecd70ff94300f0ed489ce1050e46</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="  棚卸/廃棄情報" display_value="  棚卸/廃棄情報" name="x_65262_market_asset_mst" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">6e7798530ff94300f0ed489ce1050eeb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-19 07:03:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>material_confirm</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-19 07:03:06</sys_created_on>
+            <sys_id>7264ecd70ff94300f0ed489ce1050e47</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="  棚卸/廃棄情報" display_value="  棚卸/廃棄情報" name="x_65262_market_asset_mst" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">6e7798530ff94300f0ed489ce1050eeb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-19 07:03:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>material_comment</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-19 07:03:06</sys_created_on>
+            <sys_id>f264ecd70ff94300f0ed489ce1050e47</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="  棚卸/廃棄情報" display_value="  棚卸/廃棄情報" name="x_65262_market_asset_mst" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">6e7798530ff94300f0ed489ce1050eeb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-19 07:03:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>tooling_disposal_date</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-19 07:03:06</sys_created_on>
+            <sys_id>7664ecd70ff94300f0ed489ce1050e47</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="  棚卸/廃棄情報" display_value="  棚卸/廃棄情報" name="x_65262_market_asset_mst" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">6e7798530ff94300f0ed489ce1050eeb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-19 07:03:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>  棚卸/廃棄情報</caption>
+            <header>false</header>
+            <name>x_65262_market_asset_mst</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-19 06:06:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6e7798530ff94300f0ed489ce1050eeb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>  棚卸/廃棄情報</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="market" source="x_65262_market">eb4045760f300300f0ed489ce1050ea4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="market">eb4045760f300300f0ed489ce1050ea4</sys_scope>
+            <sys_update_name>sys_ui_section_6e7798530ff94300f0ed489ce1050eeb</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-19 06:06:33</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="a3" name="a3">fbb4e7100f2d0300f0ed489ce1050e7c</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

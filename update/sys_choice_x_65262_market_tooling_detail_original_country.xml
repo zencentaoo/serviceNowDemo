@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="original_country" table="x_65262_market_tooling_detail" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>original_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CN</label>
+            <language>en</language>
+            <name>x_65262_market_tooling_detail</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-17 02:53:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7b1819e60ff50300f0ed489ce1050ead</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-17 02:53:43</sys_updated_on>
+            <value>CN</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>original_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CZ</label>
+            <language>en</language>
+            <name>x_65262_market_tooling_detail</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-17 02:55:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>29785de60ff50300f0ed489ce1050e0b</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-17 02:55:11</sys_updated_on>
+            <value>CZ</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>original_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DE</label>
+            <language>en</language>
+            <name>x_65262_market_tooling_detail</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-17 02:55:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5f785de60ff50300f0ed489ce1050eae</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-17 02:55:19</sys_updated_on>
+            <value>DE</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>original_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ES</label>
+            <language>en</language>
+            <name>x_65262_market_tooling_detail</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-17 02:55:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cd889de60ff50300f0ed489ce1050e44</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-17 02:55:26</sys_updated_on>
+            <value>ES</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>original_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>FR</label>
+            <language>en</language>
+            <name>x_65262_market_tooling_detail</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-17 02:55:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4b88dde60ff50300f0ed489ce1050ef1</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-17 02:55:35</sys_updated_on>
+            <value>FR</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>original_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>HK</label>
+            <language>en</language>
+            <name>x_65262_market_tooling_detail</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-17 02:53:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f12859e60ff50300f0ed489ce1050edb</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-17 02:53:51</sys_updated_on>
+            <value>HK</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>original_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ID</label>
+            <language>en</language>
+            <name>x_65262_market_tooling_detail</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-17 02:53:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a7281de60ff50300f0ed489ce1050e65</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-17 02:53:59</sys_updated_on>
+            <value>ID</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>original_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IN</label>
+            <language>en</language>
+            <name>x_65262_market_tooling_detail</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-17 02:54:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3938d9e60ff50300f0ed489ce1050eb6</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-17 02:54:07</sys_updated_on>
+            <value>IN</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>original_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>JP</label>
+            <language>en</language>
+            <name>x_65262_market_tooling_detail</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-17 02:53:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>69a69da60ff50300f0ed489ce1050e08</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-17 02:53:36</sys_updated_on>
+            <value>JP</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>original_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>KR</label>
+            <language>en</language>
+            <name>x_65262_market_tooling_detail</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-17 02:54:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e738d9e60ff50300f0ed489ce1050efe</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-17 02:54:15</sys_updated_on>
+            <value>KR</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>original_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MY</label>
+            <language>en</language>
+            <name>x_65262_market_tooling_detail</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-17 02:54:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1148d9e60ff50300f0ed489ce1050e41</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-17 02:54:23</sys_updated_on>
+            <value>MY</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>original_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SG</label>
+            <language>en</language>
+            <name>x_65262_market_tooling_detail</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-17 02:54:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6b485de60ff50300f0ed489ce1050ea8</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-17 02:54:33</sys_updated_on>
+            <value>SG</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>original_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>TH</label>
+            <language>en</language>
+            <name>x_65262_market_tooling_detail</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-17 02:54:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>515815e60ff50300f0ed489ce1050e78</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-17 02:54:41</sys_updated_on>
+            <value>TH</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>original_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>TW</label>
+            <language>en</language>
+            <name>x_65262_market_tooling_detail</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-17 02:54:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b7585de60ff50300f0ed489ce1050e68</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-17 02:54:49</sys_updated_on>
+            <value>TW</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>original_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>US</label>
+            <language>en</language>
+            <name>x_65262_market_tooling_detail</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-17 02:54:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>79685de60ff50300f0ed489ce1050ea3</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-17 02:54:57</sys_updated_on>
+            <value>US</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>original_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>VN</label>
+            <language>en</language>
+            <name>x_65262_market_tooling_detail</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-17 02:55:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2f6859e60ff50300f0ed489ce1050edd</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-17 02:55:04</sys_updated_on>
+            <value>VN</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>original_country</element>
+            <name>x_65262_market_tooling_detail</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-17 02:53:33</sys_created_on>
+            <sys_id>3718d9e60ff50300f0ed489ce1050eab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>original_country</sys_name>
+            <sys_package display_value="market" source="x_65262_market">eb4045760f300300f0ed489ce1050ea4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="market">eb4045760f300300f0ed489ce1050ea4</sys_scope>
+            <sys_update_name>sys_choice_x_65262_market_tooling_detail_original_country</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-17 02:53:33</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

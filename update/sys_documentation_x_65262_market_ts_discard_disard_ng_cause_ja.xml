@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="disard_ng_cause" label="廃棄NG理由等コメント" language="ja" table="x_65262_market_ts_discard">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>disard_ng_cause</element>
+            <help/>
+            <hint/>
+            <label>廃棄NG理由等コメント</label>
+            <language>ja</language>
+            <name>x_65262_market_ts_discard</name>
+            <plural>廃棄NG理由等コメント</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-05 08:25:42</sys_created_on>
+            <sys_id>3601bc3a0f2d0300f0ed489ce1050eff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>廃棄NG理由等コメント</sys_name>
+            <sys_package display_value="market" source="x_65262_market">eb4045760f300300f0ed489ce1050ea4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="market">eb4045760f300300f0ed489ce1050ea4</sys_scope>
+            <sys_update_name>sys_documentation_x_65262_market_ts_discard_disard_ng_cause_ja</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-05 08:25:42</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

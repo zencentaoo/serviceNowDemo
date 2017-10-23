@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="asset_mst" max_length="40" name="x_65262_market_asset_mst" type="collection">
+        <element display="true" label="Assets No" max_length="32" name="assets_no" reference="x_65262_market_tooling_detail" type="reference"/>
+        <element choice="1" label="Assets Status" max_length="40" name="assets_status" type="choice">
+            <choice>
+                <element label="statusA" value="10"/>
+                <element label="StatusB" value="20"/>
+            </choice>
+        </element>
+        <element label="Comments" max_length="1000" name="comments" type="string"/>
+        <element label="Cs Comments" max_length="1000" name="cs_comments" type="string"/>
+        <element label="Cs Decision" max_length="1000" name="cs_decision" type="string"/>
+        <element label="Cs Tooling Flag" max_length="40" name="cs_tooling_flag" type="boolean"/>
+        <element label="Cs Tooling Storage Term" max_length="100" name="cs_tooling_storage_term" type="string"/>
+        <element label="Discon Date" max_length="40" name="discon_date" type="glide_date"/>
+        <element label="Disposal Confirm Month" max_length="20" name="disposal_confirm_month" type="string"/>
+        <element label="Disposal Hope" max_length="40" name="disposal_hope" type="boolean"/>
+        <element label="Disposal Reasons" max_length="1000" name="disposal_reasons" type="string"/>
+        <element label="Final Operation Month" max_length="20" name="final_operation_month" type="string"/>
+        <element label="Hope Reason" max_length="1000" name="hope_reason" type="string"/>
+        <element label="Jcr Own" max_length="40" name="jcr_own" type="boolean"/>
+        <element label="Material Comment" max_length="1000" name="material_comment" type="string"/>
+        <element label="Material Confirm" max_length="200" name="material_confirm" type="string"/>
+        <element label="Multiple Flag" max_length="40" name="multiple_flag" type="boolean"/>
+        <element label="Obtain Amount" max_length="20" name="obtain_amount" type="decimal"/>
+        <element label="Obtain Date" max_length="40" name="obtain_date" type="glide_date"/>
+        <element label="Order Date" max_length="40" name="order_date" type="glide_date"/>
+        <element label="Part Output Final Month" max_length="20" name="part_output_final_month" type="string"/>
+        <element label="Responsible Company Info" max_length="60" name="responsible_company_info" type="string"/>
+        <element label="Run Status Remarks" max_length="1000" name="run_status_remarks" type="string"/>
+        <element label="Special Tooling" max_length="40" name="special_tooling" type="boolean"/>
+        <element label="Tooling Disposal Date" max_length="40" name="tooling_disposal_date" type="glide_date"/>
+        <element label="Tooling Person" max_length="100" name="tooling_person" type="string"/>
+        <element label="Tooling Type" max_length="100" name="tooling_type" type="string"/>
+        <index name="index">
+            <element name="assets_no"/>
+        </index>
+    </element>
+</database>

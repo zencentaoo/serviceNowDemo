@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="shop">0e708d760f300300f0ed489ce1050e87</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>tooling_details</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_65262_market_tooling_detail</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_65262_market.tooling_detail_user</roles>
+        <survey/>
+        <survey_overwrite>true</survey_overwrite>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-10-16 08:25:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>cd8ad11a0f310300f0ed489ce1050e45</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>tooling_details</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="market" source="x_65262_market">eb4045760f300300f0ed489ce1050ea4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="market">eb4045760f300300f0ed489ce1050ea4</sys_scope>
+        <sys_update_name>sys_app_module_cd8ad11a0f310300f0ed489ce1050e45</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-10-18 08:11:38</sys_updated_on>
+        <timeline_page/>
+        <title>tooling_details</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="Imp Tmpl X 65262 Market Ts Discard" max_length="40" name="u_imp_tmpl_x_65262_market_ts_discard" type="collection">
+        <element label="CS供給部品番号" max_length="40" name="u_cs供給部品番号" type="float"/>
+        <element attributes="edge_encryption_enabled=true" label="○型残" max_length="40" name="u__型残" type="string"/>
+        <element label="○年経過" max_length="40" name="u__年経過" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="ディスコン" max_length="40" name="u_ディスコン" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="備考" max_length="40" name="u_備考" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="受注時担当者" max_length="40" name="u_受注時担当者" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="名称" max_length="40" name="u_名称" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="型区分" max_length="40" name="u_型区分" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="希望理由" max_length="40" name="u_希望理由" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="担当者" max_length="40" name="u_担当者" type="string"/>
+        <element label="数" max_length="40" name="u_数" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="機種名" max_length="40" name="u_機種名" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="納品先名称" max_length="40" name="u_納品先名称" type="string"/>
+        <element label="資産番号" max_length="40" name="u_資産番号" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="部品名称" max_length="40" name="u_部品名称" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="部品番号" max_length="40" name="u_部品番号" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="ｶﾃｺﾞﾘ" max_length="40" name="u_ｶﾃｺﾞﾘ" type="string"/>
+    </element>
+</database>

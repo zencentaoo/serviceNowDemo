@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="資産マスタ" max_length="40" name="x_65262_market_shop" type="collection">
+        <element label="myID" max_length="40" name="myid" type="string"/>
+        <element default="javascript:getNextObjNumberPadded();" display="true" dynamic_default_value="fdcb83a85f220100a9ad2572f2b4773c" label="wyc id" max_length="40" name="wyc_id" read_only="true" type="string" use_dynamic_default="true"/>
+    </element>
+</database>

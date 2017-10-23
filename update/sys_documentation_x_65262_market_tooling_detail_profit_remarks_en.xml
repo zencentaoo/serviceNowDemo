@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="profit_remarks" label="Profit Remarks" language="en" table="x_65262_market_tooling_detail">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>profit_remarks</element>
+            <help/>
+            <hint/>
+            <label>Profit Remarks</label>
+            <language>en</language>
+            <name>x_65262_market_tooling_detail</name>
+            <plural>Profit Remarks</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-17 02:20:47</sys_created_on>
+            <sys_id>c4a051e20ff50300f0ed489ce1050e9a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Profit Remarks</sys_name>
+            <sys_package display_value="market" source="x_65262_market">eb4045760f300300f0ed489ce1050ea4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="market">eb4045760f300300f0ed489ce1050ea4</sys_scope>
+            <sys_update_name>sys_documentation_x_65262_market_tooling_detail_profit_remarks_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-17 02:20:47</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

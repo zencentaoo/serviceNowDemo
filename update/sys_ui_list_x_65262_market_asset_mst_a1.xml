@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_65262_market_asset_mst" version="2" view="a1">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assets_no</element>
+            <list_id display_value="x_65262_market_asset_mst" element="NULL" name="x_65262_market_asset_mst" parent="NULL" relationship="NULL" sys_domain="global" view="93a1b0500fe50300f0ed489ce1050e67">9c6a270f0f794300f0ed489ce1050e67</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-19 02:49:31</sys_created_on>
+            <sys_id>186a270f0f794300f0ed489ce1050e68</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-19 02:49:31</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assets_status</element>
+            <list_id display_value="x_65262_market_asset_mst" element="NULL" name="x_65262_market_asset_mst" parent="NULL" relationship="NULL" sys_domain="global" view="93a1b0500fe50300f0ed489ce1050e67">9c6a270f0f794300f0ed489ce1050e67</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-19 02:49:31</sys_created_on>
+            <sys_id>9c6a270f0f794300f0ed489ce1050e68</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-19 02:49:31</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assets_no.supplier_code</element>
+            <list_id display_value="x_65262_market_asset_mst" element="NULL" name="x_65262_market_asset_mst" parent="NULL" relationship="NULL" sys_domain="global" view="93a1b0500fe50300f0ed489ce1050e67">9c6a270f0f794300f0ed489ce1050e67</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-19 02:49:31</sys_created_on>
+            <sys_id>106a270f0f794300f0ed489ce1050e69</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-19 02:49:31</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assets_no.responsible_company_code</element>
+            <list_id display_value="x_65262_market_asset_mst" element="NULL" name="x_65262_market_asset_mst" parent="NULL" relationship="NULL" sys_domain="global" view="93a1b0500fe50300f0ed489ce1050e67">9c6a270f0f794300f0ed489ce1050e67</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-19 02:49:31</sys_created_on>
+            <sys_id>906a270f0f794300f0ed489ce1050e69</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-19 02:49:31</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assets_no.responsible_company</element>
+            <list_id display_value="x_65262_market_asset_mst" element="NULL" name="x_65262_market_asset_mst" parent="NULL" relationship="NULL" sys_domain="global" view="93a1b0500fe50300f0ed489ce1050e67">9c6a270f0f794300f0ed489ce1050e67</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-19 02:49:31</sys_created_on>
+            <sys_id>146a270f0f794300f0ed489ce1050e69</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-19 02:49:31</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assets_no.quoted_contents_reason</element>
+            <list_id display_value="x_65262_market_asset_mst" element="NULL" name="x_65262_market_asset_mst" parent="NULL" relationship="NULL" sys_domain="global" view="93a1b0500fe50300f0ed489ce1050e67">9c6a270f0f794300f0ed489ce1050e67</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-19 02:49:31</sys_created_on>
+            <sys_id>946a270f0f794300f0ed489ce1050e69</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-19 02:49:31</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assets_no.category</element>
+            <list_id display_value="x_65262_market_asset_mst" element="NULL" name="x_65262_market_asset_mst" parent="NULL" relationship="NULL" sys_domain="global" view="93a1b0500fe50300f0ed489ce1050e67">9c6a270f0f794300f0ed489ce1050e67</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-19 02:49:31</sys_created_on>
+            <sys_id>186a270f0f794300f0ed489ce1050e69</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-19 02:49:31</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assets_no.model_name</element>
+            <list_id display_value="x_65262_market_asset_mst" element="NULL" name="x_65262_market_asset_mst" parent="NULL" relationship="NULL" sys_domain="global" view="93a1b0500fe50300f0ed489ce1050e67">9c6a270f0f794300f0ed489ce1050e67</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-19 02:49:31</sys_created_on>
+            <sys_id>986a270f0f794300f0ed489ce1050e69</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-19 02:49:31</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assets_no.part_no</element>
+            <list_id display_value="x_65262_market_asset_mst" element="NULL" name="x_65262_market_asset_mst" parent="NULL" relationship="NULL" sys_domain="global" view="93a1b0500fe50300f0ed489ce1050e67">9c6a270f0f794300f0ed489ce1050e67</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-19 02:49:31</sys_created_on>
+            <sys_id>1c6a270f0f794300f0ed489ce1050e69</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-19 02:49:31</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assets_no.part_name</element>
+            <list_id display_value="x_65262_market_asset_mst" element="NULL" name="x_65262_market_asset_mst" parent="NULL" relationship="NULL" sys_domain="global" view="93a1b0500fe50300f0ed489ce1050e67">9c6a270f0f794300f0ed489ce1050e67</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-19 02:49:31</sys_created_on>
+            <sys_id>9c6a270f0f794300f0ed489ce1050e69</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-19 02:49:31</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assets_no.currency</element>
+            <list_id display_value="x_65262_market_asset_mst" element="NULL" name="x_65262_market_asset_mst" parent="NULL" relationship="NULL" sys_domain="global" view="93a1b0500fe50300f0ed489ce1050e67">9c6a270f0f794300f0ed489ce1050e67</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>10</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-19 02:49:31</sys_created_on>
+            <sys_id>106a270f0f794300f0ed489ce1050e6a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-19 02:49:31</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assets_no.decide_price</element>
+            <list_id display_value="x_65262_market_asset_mst" element="NULL" name="x_65262_market_asset_mst" parent="NULL" relationship="NULL" sys_domain="global" view="93a1b0500fe50300f0ed489ce1050e67">9c6a270f0f794300f0ed489ce1050e67</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>11</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-19 02:49:31</sys_created_on>
+            <sys_id>906a270f0f794300f0ed489ce1050e6a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-19 02:49:31</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assets_no.tax</element>
+            <list_id display_value="x_65262_market_asset_mst" element="NULL" name="x_65262_market_asset_mst" parent="NULL" relationship="NULL" sys_domain="global" view="93a1b0500fe50300f0ed489ce1050e67">9c6a270f0f794300f0ed489ce1050e67</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>12</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-19 02:49:31</sys_created_on>
+            <sys_id>146a270f0f794300f0ed489ce1050e6a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-19 02:49:31</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assets_no.sys_created_on</element>
+            <list_id display_value="x_65262_market_asset_mst" element="NULL" name="x_65262_market_asset_mst" parent="NULL" relationship="NULL" sys_domain="global" view="93a1b0500fe50300f0ed489ce1050e67">9c6a270f0f794300f0ed489ce1050e67</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>13</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-19 02:49:31</sys_created_on>
+            <sys_id>946a270f0f794300f0ed489ce1050e6a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-19 02:49:31</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_65262_market_asset_mst</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-19 02:49:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9c6a270f0f794300f0ed489ce1050e67</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_65262_market_asset_mst</sys_name>
+            <sys_package display_value="market" source="x_65262_market">eb4045760f300300f0ed489ce1050ea4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="market">eb4045760f300300f0ed489ce1050ea4</sys_scope>
+            <sys_update_name>sys_ui_list_x_65262_market_asset_mst_a1</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-19 02:49:31</sys_updated_on>
+            <sys_user/>
+            <view display_value="a1" name="a1">93a1b0500fe50300f0ed489ce1050e67</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

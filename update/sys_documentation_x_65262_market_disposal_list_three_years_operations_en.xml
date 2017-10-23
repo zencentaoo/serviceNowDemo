@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="three_years_operations" label="Three Years Operations" language="en" table="x_65262_market_disposal_list">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>three_years_operations</element>
+            <help/>
+            <hint/>
+            <label>Three Years Operations</label>
+            <language>en</language>
+            <name>x_65262_market_disposal_list</name>
+            <plural>Three Years Operations</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-17 03:37:06</sys_created_on>
+            <sys_id>fd12612e0ff50300f0ed489ce1050eb2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Three Years Operations</sys_name>
+            <sys_package display_value="market" source="x_65262_market">eb4045760f300300f0ed489ce1050ea4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="market">eb4045760f300300f0ed489ce1050ea4</sys_scope>
+            <sys_update_name>sys_documentation_x_65262_market_disposal_list_three_years_operations_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-17 03:37:06</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

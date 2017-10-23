@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="f66d08480f310300f0ed489ce1050e4c" sys_domain="global" table="x_65262_market_ts_discard" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-09 03:02:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fa6d08480f310300f0ed489ce1050e4e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_65262_market_ts_discard" name="x_65262_market_ts_discard" sys_domain="global" view="2ec170500fe50300f0ed489ce1050e6b">f66d08480f310300f0ed489ce1050e4c</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_65262_market_ts_discard" sys_domain="global" view="2ec170500fe50300f0ed489ce1050e6b">fb9c04480f310300f0ed489ce1050e21</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-09 03:02:21</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-09 03:02:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f66d08480f310300f0ed489ce1050e4f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_65262_market_ts_discard" name="x_65262_market_ts_discard" sys_domain="global" view="2ec170500fe50300f0ed489ce1050e6b">f66d08480f310300f0ed489ce1050e4c</sys_ui_form>
+            <sys_ui_section caption="最終判断" display_value="最終判断" name="x_65262_market_ts_discard" sys_domain="global" view="2ec170500fe50300f0ed489ce1050e6b">3e6d08480f310300f0ed489ce1050e4b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-09 03:02:21</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_65262_market_ts_discard</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-09 03:02:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f66d08480f310300f0ed489ce1050e4c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_65262_market_ts_discard</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="market" source="x_65262_market">eb4045760f300300f0ed489ce1050ea4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="market">eb4045760f300300f0ed489ce1050ea4</sys_scope>
+            <sys_update_name>sys_ui_form_sections_f66d08480f310300f0ed489ce1050e4c</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-09 03:02:20</sys_updated_on>
+            <sys_user/>
+            <view display_value="b1" name="b1">2ec170500fe50300f0ed489ce1050e6b</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

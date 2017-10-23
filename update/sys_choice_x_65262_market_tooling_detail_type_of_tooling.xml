@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="type_of_tooling" table="x_65262_market_tooling_detail" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type_of_tooling</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PRESS（Single）</label>
+            <language>en</language>
+            <name>x_65262_market_tooling_detail</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-17 02:25:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cb81d9e20ff50300f0ed489ce1050e95</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-17 07:20:26</sys_updated_on>
+            <value>A</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type_of_tooling</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PRESS（progressive）</label>
+            <language>en</language>
+            <name>x_65262_market_tooling_detail</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-17 02:25:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>aba119e20ff50300f0ed489ce1050ee6</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-17 07:20:24</sys_updated_on>
+            <value>B</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type_of_tooling</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>鋳造型 Mold</label>
+            <language>en</language>
+            <name>x_65262_market_tooling_detail</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-17 02:25:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f6b11de20ff50300f0ed489ce1050eb8</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-17 07:29:11</sys_updated_on>
+            <value>C</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type_of_tooling</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>鋳造型 Die Casting</label>
+            <language>en</language>
+            <name>x_65262_market_tooling_detail</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-17 02:26:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>69c1d9e20ff50300f0ed489ce1050e7b</sys_id>
+            <sys_mod_count>6</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-17 07:29:08</sys_updated_on>
+            <value>D</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>type_of_tooling</element>
+            <name>x_65262_market_tooling_detail</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-17 02:25:24</sys_created_on>
+            <sys_id>2fa119e20ff50300f0ed489ce1050e07</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>type_of_tooling</sys_name>
+            <sys_package display_value="market" source="x_65262_market">eb4045760f300300f0ed489ce1050ea4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="market">eb4045760f300300f0ed489ce1050ea4</sys_scope>
+            <sys_update_name>sys_choice_x_65262_market_tooling_detail_type_of_tooling</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-17 02:25:24</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

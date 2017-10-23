@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="material_disposal_ng_reason" label="Material Disposal Ng Reason" language="en" table="x_65262_market_disposal_list">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>material_disposal_ng_reason</element>
+            <help/>
+            <hint/>
+            <label>Material Disposal Ng Reason</label>
+            <language>en</language>
+            <name>x_65262_market_disposal_list</name>
+            <plural>Material Disposal Ng Reasons</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-17 03:37:06</sys_created_on>
+            <sys_id>fd12612e0ff50300f0ed489ce1050ead</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Material Disposal Ng Reason</sys_name>
+            <sys_package display_value="market" source="x_65262_market">eb4045760f300300f0ed489ce1050ea4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="market">eb4045760f300300f0ed489ce1050ea4</sys_scope>
+            <sys_update_name>sys_documentation_x_65262_market_disposal_list_material_disposal_ng_reason_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-17 03:37:06</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

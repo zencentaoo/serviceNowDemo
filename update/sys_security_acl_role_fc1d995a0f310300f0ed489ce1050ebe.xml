@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-10-16 08:36:42</sys_created_on>
+        <sys_id>fc1d995a0f310300f0ed489ce1050ebe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_65262_market_disposal_list.x_65262_market.disposal_list_user</sys_name>
+        <sys_package display_value="market" source="x_65262_market">eb4045760f300300f0ed489ce1050ea4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="market">eb4045760f300300f0ed489ce1050ea4</sys_scope>
+        <sys_security_acl display_value="x_65262_market_disposal_list">f41d995a0f310300f0ed489ce1050ebc</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_fc1d995a0f310300f0ed489ce1050ebe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-10-16 08:36:42</sys_updated_on>
+        <sys_user_role display_value="x_65262_market.disposal_list_user" name="x_65262_market.disposal_list_user">e41d5d1a0f310300f0ed489ce1050e5a</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

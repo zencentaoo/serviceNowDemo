@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="disposal_list" max_length="40" name="x_65262_market_disposal_list" type="collection">
+        <element label="Assets No" max_length="40" name="assets_no" reference="x_65262_market_asset_mst" type="reference"/>
+        <element label="Assets No" max_length="100" name="assets_no_display" type="string"/>
+        <element label="Assets Remarks" max_length="1000" name="assets_remarks" type="string"/>
+        <element label="Carrying Now" max_length="30" name="carrying_now" type="string"/>
+        <element label="Catalog Status" max_length="40" name="catalog_status" type="string"/>
+        <element choice="1" label="Category" max_length="40" name="category" type="choice">
+            <choice>
+                <element label="治具" value="20"/>
+                <element label="版・組版" value="30"/>
+                <element label="金型" value="10"/>
+            </choice>
+        </element>
+        <element label="Comments" max_length="1000" name="comments" type="string"/>
+        <element label="Cs Comments" max_length="1000" name="cs_comments" type="string"/>
+        <element label="Cs Decision" max_length="1000" name="cs_decision" type="string"/>
+        <element label="Cs Supply Part Name" max_length="40" name="cs_supply_part_name" type="string"/>
+        <element label="Cs Supply Part Remarks" max_length="1000" name="cs_supply_part_remarks" type="string"/>
+        <element label="Delivery Destination Code" max_length="40" name="delivery_destination_code" type="string"/>
+        <element label="Delivery Destination Name" max_length="200" name="delivery_destination_name" type="string"/>
+        <element label="Deliver Date" max_length="20" name="deliver_date" type="string"/>
+        <element label="Disk Decision" max_length="20" name="disk_decision" type="string"/>
+        <element label="Disposal Hope" max_length="40" name="disposal_hope" type="boolean"/>
+        <element label="Disposal object" max_length="100" name="disposal_object" read_only="true" type="string"/>
+        <element label="Disposal Person" max_length="40" name="disposal_person" type="string"/>
+        <element label="End Off" max_length="40" name="end_off" type="string"/>
+        <element label="Final Operation Month" max_length="20" name="final_operation_month" type="string"/>
+        <element label="Hope Reason" max_length="1000" name="hope_reason" type="string"/>
+        <element label="Jcr Own" max_length="20" name="jcr_own" type="boolean"/>
+        <element label="Location Cd" max_length="100" name="location_cd" type="string"/>
+        <element label="Location Name" max_length="200" name="location_name" type="string"/>
+        <element label="Material Disposal Check" max_length="1000" name="material_disposal_check" type="string"/>
+        <element label="Material Disposal Ng Reason" max_length="1000" name="material_disposal_ng_reason" type="string"/>
+        <element choice="1" label="Material Molding" max_length="40" name="material_molding" type="choice">
+            <choice>
+                <element label="ガラス　Glass" language="ja" value="40"/>
+                <element label="ゴム　Rubber" language="ja" value="30"/>
+                <element label="合成樹脂　Mold" language="ja" value="20"/>
+                <element label="紙 Paper" language="ja" value="50"/>
+                <element label="金属　Metal" language="ja" value="10"/>
+            </choice>
+        </element>
+        <element choice="1" label="Material Tooling" max_length="40" name="material_tooling" type="choice">
+            <choice>
+                <element label="Metals" value="10"/>
+                <element label="Wood" value="20"/>
+                <element label="木" language="ja" value="20"/>
+                <element label="金属類" language="ja" value="10"/>
+            </choice>
+        </element>
+        <element label="Model Name" max_length="200" name="model_name" type="string"/>
+        <element label="Multiple Flag" max_length="40" name="multiple_flag" type="boolean"/>
+        <element choice="1" label="Operation Status" max_length="100" name="operation_status" type="choice">
+            <choice>
+                <element label="保管中" value="20"/>
+                <element label="稼働中" value="10"/>
+            </choice>
+        </element>
+        <element label="Operation Status Remarks" max_length="1000" name="operation_status_remarks" type="string"/>
+        <element label="Order No Date" max_length="20" name="order_no_date" type="string"/>
+        <element label="Order Person" max_length="40" name="order_person" type="string"/>
+        <element label="Output Factory" max_length="100" name="output_factory" type="string"/>
+        <element label="Part Name" max_length="200" name="part_name" type="string"/>
+        <element label="Part No" max_length="40" name="part_no" type="string"/>
+        <element label="Part Output Final Month" max_length="20" name="part_output_final_month" type="string"/>
+        <element label="Past Years" max_length="20" name="past_years" type="string"/>
+        <element label="Pre Material" max_length="40" name="pre_material" type="string"/>
+        <element label="Purchase Price" max_length="30" name="purchase_price" type="string"/>
+        <element label="Recent Raising" max_length="40" name="recent_raising" type="string"/>
+        <element label="Reference Assets No" max_length="40" name="reference_assets_no" type="string"/>
+        <element label="Rhq Output" max_length="40" name="rhq_output" type="string"/>
+        <element label="Same Count" max_length="20" name="same_count" type="string"/>
+        <element label="Special Tooling" max_length="40" name="special_tooling" type="boolean"/>
+        <element label="Supplier Code" max_length="100" name="supplier_code" type="string"/>
+        <element label="Supplier Name" max_length="200" name="supplier_name" type="string"/>
+        <element label="Three Years Operations" max_length="200" name="three_years_operations" type="boolean"/>
+        <element label="Toolings Residual Flag" max_length="20" name="toolings_residual_flag" type="string"/>
+        <element label="Tooling Type" max_length="100" name="tooling_type" type="string"/>
+    </element>
+</database>

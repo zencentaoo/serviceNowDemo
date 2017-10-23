@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="cs_supply_part_remarks" label="CS供給部品備考" language="ja" table="x_65262_market_disposal_list">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>cs_supply_part_remarks</element>
+            <help/>
+            <hint/>
+            <label>CS供給部品備考</label>
+            <language>ja</language>
+            <name>x_65262_market_disposal_list</name>
+            <plural>CS供給部品備考</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-17 07:52:09</sys_created_on>
+            <sys_id>357c1aaa0f790300f0ed489ce1050e86</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>CS供給部品備考</sys_name>
+            <sys_package display_value="market" source="x_65262_market">eb4045760f300300f0ed489ce1050ea4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="market">eb4045760f300300f0ed489ce1050ea4</sys_scope>
+            <sys_update_name>sys_documentation_x_65262_market_disposal_list_cs_supply_part_remarks_ja</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-17 07:52:09</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

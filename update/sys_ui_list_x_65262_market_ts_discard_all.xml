@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_65262_market_ts_discard" version="2" view="all">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>shisanbango</element>
+            <list_id display_value="x_65262_market_ts_discard" element="NULL" name="x_65262_market_ts_discard" parent="NULL" relationship="NULL" sys_domain="global" view="651a1d540f290300f0ed489ce1050e15">043467100f2d0300f0ed489ce1050edc</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-28 03:03:28</sys_created_on>
+            <sys_id>883467100f2d0300f0ed489ce1050edc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-28 03:03:28</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>nouhinsaki_meisyo</element>
+            <list_id display_value="x_65262_market_ts_discard" element="NULL" name="x_65262_market_ts_discard" parent="NULL" relationship="NULL" sys_domain="global" view="651a1d540f290300f0ed489ce1050e15">043467100f2d0300f0ed489ce1050edc</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-28 03:03:28</sys_created_on>
+            <sys_id>0c3467100f2d0300f0ed489ce1050edc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-28 03:03:28</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>dison</element>
+            <list_id display_value="x_65262_market_ts_discard" element="NULL" name="x_65262_market_ts_discard" parent="NULL" relationship="NULL" sys_domain="global" view="651a1d540f290300f0ed489ce1050e15">043467100f2d0300f0ed489ce1050edc</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-28 03:03:28</sys_created_on>
+            <sys_id>8c3467100f2d0300f0ed489ce1050edc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-28 03:03:28</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>category</element>
+            <list_id display_value="x_65262_market_ts_discard" element="NULL" name="x_65262_market_ts_discard" parent="NULL" relationship="NULL" sys_domain="global" view="651a1d540f290300f0ed489ce1050e15">043467100f2d0300f0ed489ce1050edc</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-28 03:03:28</sys_created_on>
+            <sys_id>003467100f2d0300f0ed489ce1050edd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-28 03:03:28</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>katakubun</element>
+            <list_id display_value="x_65262_market_ts_discard" element="NULL" name="x_65262_market_ts_discard" parent="NULL" relationship="NULL" sys_domain="global" view="651a1d540f290300f0ed489ce1050e15">043467100f2d0300f0ed489ce1050edc</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-28 03:03:28</sys_created_on>
+            <sys_id>803467100f2d0300f0ed489ce1050edd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-28 03:03:28</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>kisyumei</element>
+            <list_id display_value="x_65262_market_ts_discard" element="NULL" name="x_65262_market_ts_discard" parent="NULL" relationship="NULL" sys_domain="global" view="651a1d540f290300f0ed489ce1050e15">043467100f2d0300f0ed489ce1050edc</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-28 03:03:28</sys_created_on>
+            <sys_id>043467100f2d0300f0ed489ce1050edd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-28 03:03:28</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>buhin_bango</element>
+            <list_id display_value="x_65262_market_ts_discard" element="NULL" name="x_65262_market_ts_discard" parent="NULL" relationship="NULL" sys_domain="global" view="651a1d540f290300f0ed489ce1050e15">043467100f2d0300f0ed489ce1050edc</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-28 03:03:28</sys_created_on>
+            <sys_id>843467100f2d0300f0ed489ce1050edd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-28 03:03:28</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>buhin_mei</element>
+            <list_id display_value="x_65262_market_ts_discard" element="NULL" name="x_65262_market_ts_discard" parent="NULL" relationship="NULL" sys_domain="global" view="651a1d540f290300f0ed489ce1050e15">043467100f2d0300f0ed489ce1050edc</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-28 03:03:28</sys_created_on>
+            <sys_id>083467100f2d0300f0ed489ce1050edd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-28 03:03:28</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>name</element>
+            <list_id display_value="x_65262_market_ts_discard" element="NULL" name="x_65262_market_ts_discard" parent="NULL" relationship="NULL" sys_domain="global" view="651a1d540f290300f0ed489ce1050e15">043467100f2d0300f0ed489ce1050edc</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-28 03:03:28</sys_created_on>
+            <sys_id>883467100f2d0300f0ed489ce1050edd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-28 03:03:28</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>biko</element>
+            <list_id display_value="x_65262_market_ts_discard" element="NULL" name="x_65262_market_ts_discard" parent="NULL" relationship="NULL" sys_domain="global" view="651a1d540f290300f0ed489ce1050e15">043467100f2d0300f0ed489ce1050edc</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-28 03:03:28</sys_created_on>
+            <sys_id>0c3467100f2d0300f0ed489ce1050edd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-28 03:03:28</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>discon_flg</element>
+            <list_id display_value="x_65262_market_ts_discard" element="NULL" name="x_65262_market_ts_discard" parent="NULL" relationship="NULL" sys_domain="global" view="651a1d540f290300f0ed489ce1050e15">043467100f2d0300f0ed489ce1050edc</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>10</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-28 03:03:28</sys_created_on>
+            <sys_id>8c3467100f2d0300f0ed489ce1050edd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-28 03:03:28</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_65262_market_ts_discard</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-09 07:10:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>171641880fb10300f0ed489ce1050e22</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name/>
+            <sys_package/>
+            <sys_policy/>
+            <sys_scope display_value="market">eb4045760f300300f0ed489ce1050ea4</sys_scope>
+            <sys_update_name/>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-09 07:10:03</sys_updated_on>
+            <sys_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</sys_user>
+            <view display_value="all" name="all">651a1d540f290300f0ed489ce1050e15</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

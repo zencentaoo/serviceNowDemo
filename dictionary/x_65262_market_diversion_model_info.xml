@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="流用機種情報" max_length="40" name="x_65262_market_diversion_model_info" type="collection">
+        <element label="Assets No" max_length="32" name="assets_noassets_no" reference="x_65262_market_asset_mst" type="reference"/>
+        <element label="Discon Date" max_length="20" name="discon_date" type="string"/>
+        <element label="Model Name" max_length="100" name="model_name" type="string"/>
+        <element label="Part No" max_length="20" name="part_no" type="string"/>
+        <index name="index">
+            <element name="assets_noassets_no"/>
+        </index>
+    </element>
+</database>

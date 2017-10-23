@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="金型明細" max_length="40" name="x_65262_market_tooling_detail" type="collection">
+        <element label="Actual Location Code" max_length="100" name="actual_location_code" type="string"/>
+        <element choice="1" label="Actual Location Country" max_length="40" name="actual_location_country" type="choice">
+            <choice>
+                <element label="CN" value="CN"/>
+                <element label="CZ" value="CZ"/>
+                <element label="DE" value="DE"/>
+                <element label="ES" value="ES"/>
+                <element label="FR" value="FR"/>
+                <element label="HK" value="HK"/>
+                <element label="ID" value="ID"/>
+                <element label="IN" value="IN"/>
+                <element label="JP" value="JP"/>
+                <element label="KR" value="KR"/>
+                <element label="MY" value="MY"/>
+                <element label="SG" value="SG"/>
+                <element label="TH" value="TH"/>
+                <element label="TW" value="TW"/>
+                <element label="US" value="US"/>
+                <element label="VN" value="VN"/>
+            </choice>
+        </element>
+        <element label="Actual Location Name" max_length="30" name="actual_location_name" type="string"/>
+        <element choice="1" label="Actual Received Country" max_length="40" name="actual_received_country" type="choice">
+            <choice>
+                <element label="CN" value="CN"/>
+                <element label="CZ" value="CZ"/>
+                <element label="DE" value="DE"/>
+                <element label="ES" value="ES"/>
+                <element label="FR" value="FR"/>
+                <element label="HK" value="HK"/>
+                <element label="ID" value="ID"/>
+                <element label="IN" value="IN"/>
+                <element label="JP" value="JP"/>
+                <element label="KR" value="KR"/>
+                <element label="MY" value="MY"/>
+                <element label="SG" value="SG"/>
+                <element label="TH" value="TH"/>
+                <element label="TW" value="TW"/>
+                <element label="US" value="US"/>
+                <element label="VN" value="VN"/>
+            </choice>
+        </element>
+        <element label="Administration Cost" max_length="20" name="administration_cost" type="decimal"/>
+        <element label="Administration Remarks" max_length="1000" name="administration_remarks" type="string"/>
+        <element display="true" label="Assets No" mandatory="true" max_length="10" name="assets_no" type="string"/>
+        <element label="Branch No" max_length="4" name="branch_no" type="string"/>
+        <element choice="1" label="Category" max_length="40" name="category" type="choice">
+            <choice>
+                <element label="型" value="1"/>
+                <element label="治具" value="3"/>
+                <element label="版･組版" value="2"/>
+            </choice>
+        </element>
+        <element choice="1" label="Category Of Customs" max_length="40" name="category_of_customs" type="choice">
+            <choice>
+                <element label="その他" value="3"/>
+                <element label="カートン" value="1"/>
+                <element label="取扱説明書" value="2"/>
+            </choice>
+        </element>
+        <element label="Cavity No" max_length="40" name="cavity_no" type="integer"/>
+        <element choice="1" label="China Rohs" max_length="40" name="china_rohs" type="choice">
+            <choice>
+                <element label="いいえ" value="2"/>
+                <element label="はい" value="1"/>
+            </choice>
+        </element>
+        <element label="Cost Per" max_length="40" name="cost_per" type="string"/>
+        <element choice="1" label="Currency" max_length="40" name="currency" type="choice">
+            <choice>
+                <element label="EUR" value="EUR"/>
+                <element label="JPY" value="JPY"/>
+                <element label="USD" value="USD"/>
+            </choice>
+        </element>
+        <element label="Decide Price" max_length="20" name="decide_price" type="decimal"/>
+        <element label="Disposal Hope" max_length="60" name="disposal_hope" type="string"/>
+        <element choice="1" label="Hardware Software" max_length="40" name="hardware_software" type="choice">
+            <choice>
+                <element label="Hard" value="1"/>
+                <element label="Soft" value="2"/>
+                <element label="ソフト" language="ja" value="2"/>
+                <element label="ハード" language="ja" value="1"/>
+            </choice>
+        </element>
+        <element label="Material Cost Cost" max_length="20" name="material_cost_cost" type="decimal"/>
+        <element label="Material Cost Remarks" max_length="1000" name="material_cost_remarks" type="string"/>
+        <element choice="1" label="Material Molding" max_length="40" name="material_molding" type="choice">
+            <choice>
+                <element label="Data" value="2"/>
+                <element label="Film/Printing Plate" value="1"/>
+                <element label="フィルム Film・印版 Printing Plate" language="ja" value="1"/>
+                <element label="電子データ Data" language="ja" value="2"/>
+            </choice>
+        </element>
+        <element choice="1" label="Material Tooling" max_length="40" name="material_tooling" type="choice">
+            <choice>
+                <element label="Metals" value="1"/>
+                <element label="Wood" value="2"/>
+                <element label="木" language="ja" value="2"/>
+                <element label="金属類" language="ja" value="1"/>
+            </choice>
+        </element>
+        <element label="Model Name" max_length="100" name="model_name" type="string"/>
+        <element label="Order No" max_length="10" name="order_no" type="string"/>
+        <element choice="1" label="Original Country" max_length="40" name="original_country" type="choice">
+            <choice>
+                <element label="CN" value="CN"/>
+                <element label="CZ" value="CZ"/>
+                <element label="DE" value="DE"/>
+                <element label="ES" value="ES"/>
+                <element label="FR" value="FR"/>
+                <element label="HK" value="HK"/>
+                <element label="ID" value="ID"/>
+                <element label="IN" value="IN"/>
+                <element label="JP" value="JP"/>
+                <element label="KR" value="KR"/>
+                <element label="MY" value="MY"/>
+                <element label="SG" value="SG"/>
+                <element label="TH" value="TH"/>
+                <element label="TW" value="TW"/>
+                <element label="US" value="US"/>
+                <element label="VN" value="VN"/>
+            </choice>
+        </element>
+        <element label="Others Cost" max_length="20" name="others_cost" type="decimal"/>
+        <element label="Others Remarks" max_length="1000" name="others_remarks" type="string"/>
+        <element label="Output Factory" max_length="100" name="output_factory" type="string"/>
+        <element label="Packing Cost Cost" max_length="20" name="packing_cost_cost" type="decimal"/>
+        <element label="Packing Cost Remarks" max_length="1000" name="packing_cost_remarks" type="string"/>
+        <element label="Part name" max_length="160" name="part_name" type="string"/>
+        <element label="Part No" max_length="20" name="part_no" type="string"/>
+        <element label="Per Size" max_length="30" name="per_size" type="string"/>
+        <element choice="1" label="Price Base" max_length="40" name="price_base" type="choice">
+            <choice>
+                <element label="CFR" value="CFR"/>
+                <element label="CIF" value="CIF"/>
+                <element label="CIP" value="CIP"/>
+                <element label="CPT" value="CPT"/>
+                <element label="DAF" value="DAF"/>
+                <element label="DDP" value="DDP"/>
+                <element label="DDU" value="DDU"/>
+                <element label="DEQ" value="DEQ"/>
+                <element label="DES" value="DES"/>
+                <element label="EXW" value="EXW"/>
+                <element label="FAS" value="FAS"/>
+                <element label="FCA" value="FCA"/>
+                <element label="FOB" value="FOB"/>
+            </choice>
+        </element>
+        <element label="Process Cost Cost" max_length="20" name="process_cost_cost" type="decimal"/>
+        <element label="Process Cost Remarks" max_length="1000" name="process_cost_remarks" type="string"/>
+        <element label="Process No" max_length="40" name="process_no" type="string"/>
+        <element label="Profit Cost" max_length="20" name="profit_cost" type="decimal"/>
+        <element label="Profit Remarks" max_length="1000" name="profit_remarks" type="string"/>
+        <element label="Purchase Cost" max_length="20" name="purchase_cost" type="decimal"/>
+        <element label="Purchase Remarks" max_length="1000" name="purchase_remarks" type="string"/>
+        <element choice="1" label="Quoted Contents Reason" max_length="40" name="quoted_contents_reason" type="choice">
+            <choice>
+                <element label="改修" value="3"/>
+                <element label="改造" value="2"/>
+                <element label="新規" value="1"/>
+            </choice>
+        </element>
+        <element label="Responsible Company" max_length="60" name="responsible_company" type="string"/>
+        <element label="Responsible Company Code" max_length="100" name="responsible_company_code" type="string"/>
+        <element choice="1" label="Responsible Company Country" max_length="40" name="responsible_company_country" type="choice">
+            <choice>
+                <element label="CN" value="CN"/>
+                <element label="CZ" value="CZ"/>
+                <element label="DE" value="DE"/>
+                <element label="ES" value="ES"/>
+                <element label="FR" value="FR"/>
+                <element label="HK" value="HK"/>
+                <element label="ID" value="ID"/>
+                <element label="IN" value="IN"/>
+                <element label="JP" value="JP"/>
+                <element label="KR" value="KR"/>
+                <element label="MY" value="MY"/>
+                <element label="SG" value="SG"/>
+                <element label="TH" value="TH"/>
+                <element label="TW" value="TW"/>
+                <element label="US" value="US"/>
+                <element label="VN" value="VN"/>
+            </choice>
+        </element>
+        <element label="Supplier Code" max_length="100" name="supplier_code" type="string"/>
+        <element label="Supplier Name" max_length="120" name="supplier_name" type="string"/>
+        <element label="Tax" max_length="40" name="tax" type="boolean"/>
+        <element label="Tooling Life" max_length="40" name="tooling_life" type="string"/>
+        <element choice="1" label="Type Of Tooling" max_length="40" name="type_of_tooling" type="choice">
+            <choice>
+                <element label="PRESS（progressive）" value="B"/>
+                <element label="PRESS（Single）" value="A"/>
+                <element label="鋳造型 Die Casting" value="D"/>
+                <element label="鋳造型 Mold" value="C"/>
+            </choice>
+        </element>
+        <element choice="1" label="Use Type" max_length="40" name="use_type" type="choice">
+            <choice>
+                <element label="J以外専用" value="3"/>
+                <element label="J専用" value="2"/>
+                <element label="W/W" value="1"/>
+            </choice>
+        </element>
+        <element label="Weight" max_length="40" name="weight" type="string"/>
+    </element>
+</database>

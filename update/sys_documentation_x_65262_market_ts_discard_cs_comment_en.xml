@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="cs_comment" label="Cs comment" language="en" table="x_65262_market_ts_discard">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>cs_comment</element>
+            <help/>
+            <hint/>
+            <label>Cs comment</label>
+            <language>en</language>
+            <name>x_65262_market_ts_discard</name>
+            <plural>Cs comments</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-05 06:40:29</sys_created_on>
+            <sys_id>0ff81c7e0fe90300f0ed489ce1050e6e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Cs comment</sys_name>
+            <sys_package display_value="market" source="x_65262_market">eb4045760f300300f0ed489ce1050ea4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="market">eb4045760f300300f0ed489ce1050ea4</sys_scope>
+            <sys_update_name>sys_documentation_x_65262_market_ts_discard_cs_comment_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-05 06:40:29</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

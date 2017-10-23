@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u__年経過" label="○年経過" language="en" table="u_imp_tmpl_x_65262_market_ts_discard">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u__年経過</element>
+            <help/>
+            <hint/>
+            <label>○年経過</label>
+            <language>en</language>
+            <name>u_imp_tmpl_x_65262_market_ts_discard</name>
+            <plural>○年経過s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-09 08:17:21</sys_created_on>
+            <sys_id>818551c00ff10300f0ed489ce1050e66</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>○年経過</sys_name>
+            <sys_package display_value="market" source="x_65262_market">eb4045760f300300f0ed489ce1050ea4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="market">eb4045760f300300f0ed489ce1050ea4</sys_scope>
+            <sys_update_name>sys_documentation_u_imp_tmpl_x_65262_market_ts_discard_u__年経過_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-09 08:17:21</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

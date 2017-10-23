@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="hasLabels=true" label="ディスコン" max_length="40" name="x_65262_market_ts_discard" type="collection">
+        <element label="biko" max_length="400" name="biko" type="string"/>
+        <element label="Buhin bango" max_length="40" name="buhin_bango" type="string"/>
+        <element display="true" label="Buhin mei" max_length="40" name="buhin_mei" type="string"/>
+        <element label="Category" max_length="40" name="category" type="string"/>
+        <element label="Cs comment" max_length="400" name="cs_comment" type="string"/>
+        <element label="CS_give_buhin_bango" max_length="40" name="cs_give_buhin_bango" type="string"/>
+        <element choice="1" label="Cs judge" max_length="40" name="cs_judge" type="choice">
+            <choice>
+                <element label="廃棄" sequence="1" value="1"/>
+                <element label="使用中" sequence="2" value="2"/>
+            </choice>
+        </element>
+        <element label="disard_NG_cause" max_length="400" name="disard_ng_cause" type="string"/>
+        <element choice="1" label="Discard check" max_length="40" name="discard_check" type="choice">
+            <choice>
+                <element label="廃棄" sequence="1" value="1"/>
+                <element label="使用中" sequence="2" value="2"/>
+            </choice>
+        </element>
+        <element label="Discard promise" max_length="40" name="discard_promise" type="boolean"/>
+        <element choice="1" default="1" label="discon_flg" max_length="40" name="discon_flg" type="choice">
+            <choice>
+                <element label="廃棄" sequence="1" value="1"/>
+                <element label="使用中" sequence="2" value="2"/>
+            </choice>
+        </element>
+        <element default="未ディスコン" label="Discon status" max_length="40" name="discon_status" type="string"/>
+        <element label="Dison" max_length="40" name="dison" type="string"/>
+        <element label="Kakunin flg" max_length="40" name="kakunin_flg" type="boolean"/>
+        <element default="0" label="Kanagata count" max_length="10" name="kanagata_count" type="integer"/>
+        <element label="Katakubun" max_length="40" name="katakubun" type="string"/>
+        <element label="Kisyumei" max_length="40" name="kisyumei" type="string"/>
+        <element label="Maru kata zan" max_length="100" name="maru_kata_zan" type="string"/>
+        <element default="0" label="Maru nen pass" max_length="40" name="maru_nen_pass" type="integer"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Nouhinsaki meisyo" max_length="40" name="nouhinsaki_meisyo" type="string"/>
+        <element label="operator" max_length="40" name="operator" type="string"/>
+        <element label="Order person" max_length="40" name="order_person" type="string"/>
+        <element label="Promise cause" max_length="400" name="promise_cause" type="string"/>
+        <element label="Shisanbango" max_length="32" name="shisanbango" reference="x_65262_market_shop" type="reference"/>
+        <element default="javascript:current.shisanbango;" label="Shisanbango_after" max_length="32" name="shisanbango_after" read_only="true" reference="x_65262_market_shop" type="reference"/>
+        <index name="index">
+            <element name="shisanbango_after"/>
+        </index>
+    </element>
+</database>

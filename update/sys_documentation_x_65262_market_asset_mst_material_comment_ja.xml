@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="material_comment" label="資材コメント" language="ja" table="x_65262_market_asset_mst">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>material_comment</element>
+            <help/>
+            <hint/>
+            <label>資材コメント</label>
+            <language>ja</language>
+            <name>x_65262_market_asset_mst</name>
+            <plural>資材コメント</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-17 07:43:15</sys_created_on>
+            <sys_id>6b6ada6a0f790300f0ed489ce1050ea0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>資材コメント</sys_name>
+            <sys_package display_value="market" source="x_65262_market">eb4045760f300300f0ed489ce1050ea4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="market">eb4045760f300300f0ed489ce1050ea4</sys_scope>
+            <sys_update_name>sys_documentation_x_65262_market_asset_mst_material_comment_ja</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-17 07:43:15</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

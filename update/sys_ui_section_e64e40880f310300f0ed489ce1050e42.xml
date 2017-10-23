@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="最終判断" section_id="e64e40880f310300f0ed489ce1050e42" sys_domain="global" table="x_65262_market_ts_discard" version="3" view="a4">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>discon_flg</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-09 03:06:09</sys_created_on>
+            <sys_id>ee4e40880f310300f0ed489ce1050e63</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="最終判断" display_value="最終判断" name="x_65262_market_ts_discard" sys_domain="global" view="dde4eb100f2d0300f0ed489ce1050e62">e64e40880f310300f0ed489ce1050e42</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-09 03:06:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-09 03:06:09</sys_created_on>
+            <sys_id>624e40880f310300f0ed489ce1050e64</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="最終判断" display_value="最終判断" name="x_65262_market_ts_discard" sys_domain="global" view="dde4eb100f2d0300f0ed489ce1050e62">e64e40880f310300f0ed489ce1050e42</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-09 03:06:09</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>biko</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-09 03:06:09</sys_created_on>
+            <sys_id>e24e40880f310300f0ed489ce1050e64</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="最終判断" display_value="最終判断" name="x_65262_market_ts_discard" sys_domain="global" view="dde4eb100f2d0300f0ed489ce1050e62">e64e40880f310300f0ed489ce1050e42</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-09 03:06:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>最終判断</caption>
+            <header>false</header>
+            <name>x_65262_market_ts_discard</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-09 03:06:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e64e40880f310300f0ed489ce1050e42</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>最終判断</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="market" source="x_65262_market">eb4045760f300300f0ed489ce1050ea4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="market">eb4045760f300300f0ed489ce1050ea4</sys_scope>
+            <sys_update_name>sys_ui_section_e64e40880f310300f0ed489ce1050e42</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-09 03:06:09</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="a4" name="a4">dde4eb100f2d0300f0ed489ce1050e62</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

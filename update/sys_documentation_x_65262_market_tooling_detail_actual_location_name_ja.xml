@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="actual_location_name" label="実保管社名称" language="ja" table="x_65262_market_tooling_detail">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>actual_location_name</element>
+            <help/>
+            <hint/>
+            <label>実保管社名称</label>
+            <language>ja</language>
+            <name>x_65262_market_tooling_detail</name>
+            <plural>実保管社名称</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-17 08:01:04</sys_created_on>
+            <sys_id>908e522e0f790300f0ed489ce1050eaa</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_name>実保管社名称</sys_name>
+            <sys_package display_value="market" source="x_65262_market">eb4045760f300300f0ed489ce1050ea4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="market">eb4045760f300300f0ed489ce1050ea4</sys_scope>
+            <sys_update_name>sys_documentation_x_65262_market_tooling_detail_actual_location_name_ja</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-19 02:47:15</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

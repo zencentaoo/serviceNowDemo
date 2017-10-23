@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="purchase_remarks" label="外注加工・購入部品費/備考" language="ja" table="x_65262_market_tooling_detail">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>purchase_remarks</element>
+            <help/>
+            <hint/>
+            <label>外注加工・購入部品費/備考</label>
+            <language>ja</language>
+            <name>x_65262_market_tooling_detail</name>
+            <plural>外注加工・購入部品費/備考</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-17 08:51:27</sys_created_on>
+            <sys_id>ea0a26a20fb90300f0ed489ce1050eaa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>外注加工・購入部品費/備考</sys_name>
+            <sys_package display_value="market" source="x_65262_market">eb4045760f300300f0ed489ce1050ea4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="market">eb4045760f300300f0ed489ce1050ea4</sys_scope>
+            <sys_update_name>sys_documentation_x_65262_market_tooling_detail_purchase_remarks_ja</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-17 08:51:27</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

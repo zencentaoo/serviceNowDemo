@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="buhin_mei" label="Buhin mei" language="en" table="x_65262_market_ts_discard">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>buhin_mei</element>
+            <help/>
+            <hint/>
+            <label>Buhin mei</label>
+            <language>en</language>
+            <name>x_65262_market_ts_discard</name>
+            <plural>Buhin meis</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-27 09:53:59</sys_created_on>
+            <sys_id>bf88330c0f210300f0ed489ce1050e43</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Buhin mei</sys_name>
+            <sys_package display_value="market" source="x_65262_market">eb4045760f300300f0ed489ce1050ea4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="market">eb4045760f300300f0ed489ce1050ea4</sys_scope>
+            <sys_update_name>sys_documentation_x_65262_market_ts_discard_buhin_mei_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-27 09:53:59</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="price_base" label="建値" language="ja" table="x_65262_market_tooling_detail">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>price_base</element>
+            <help/>
+            <hint/>
+            <label>建値</label>
+            <language>ja</language>
+            <name>x_65262_market_tooling_detail</name>
+            <plural>建値</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-17 08:54:10</sys_created_on>
+            <sys_id>1eaaaea20fb90300f0ed489ce1050eeb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>建値</sys_name>
+            <sys_package display_value="market" source="x_65262_market">eb4045760f300300f0ed489ce1050ea4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="market">eb4045760f300300f0ed489ce1050ea4</sys_scope>
+            <sys_update_name>sys_documentation_x_65262_market_tooling_detail_price_base_ja</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-17 08:54:10</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
