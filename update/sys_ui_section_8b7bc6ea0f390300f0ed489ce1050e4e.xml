@@ -1079,6 +1079,34 @@
             <sys_user/>
             <type/>
         </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>disposal_no</element>
+            <position>77</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-30 03:12:41</sys_created_on>
+            <sys_id>fe29d8ba0f020300f0ed489ce1050ec3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_65262_market_tooling_detail" sys_domain="global" view="Default view">8b7bc6ea0f390300f0ed489ce1050e4e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-30 03:12:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assests_no_display</element>
+            <position>78</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-30 03:24:10</sys_created_on>
+            <sys_id>5bcb903e0f020300f0ed489ce1050ebe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_65262_market_tooling_detail" sys_domain="global" view="Default view">8b7bc6ea0f390300f0ed489ce1050e4e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-30 03:24:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>
             <header>false</header>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="category_down" table="x_65262_market_user_mst" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category_down</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>メカ部品</label>
+            <language>en</language>
+            <name>x_65262_market_user_mst</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-27 07:18:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>82a4b1710f820300f0ed489ce1050e71</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-27 07:18:43</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category_down</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>電気部品</label>
+            <language>en</language>
+            <name>x_65262_market_user_mst</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-27 07:18:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>85b4f1710f820300f0ed489ce1050e91</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-27 07:18:52</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>category_down</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>半導体</label>
+            <language>en</language>
+            <name>x_65262_market_user_mst</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-27 07:18:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9bb4f1710f820300f0ed489ce1050ed9</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-27 07:19:01</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>category_down</element>
+            <name>x_65262_market_user_mst</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-27 07:18:41</sys_created_on>
+            <sys_id>41b43db90f420300f0ed489ce1050ea4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>category_down</sys_name>
+            <sys_package display_value="market" source="x_65262_market">eb4045760f300300f0ed489ce1050ea4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="market">eb4045760f300300f0ed489ce1050ea4</sys_scope>
+            <sys_update_name>sys_choice_x_65262_market_user_mst_category_down</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-27 07:18:41</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

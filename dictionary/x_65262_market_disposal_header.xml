@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="disposal_header" max_length="40" name="x_65262_market_disposal_header" type="collection">
+        <element label="Comment" max_length="1000" name="comment" type="journal_input"/>
+        <element dependent="comment" dependent_on_field="comment" label="Comment List" max_length="4000" name="comment_list" type="journal_list" use_dependent_field="true"/>
+        <element label="Cs Approval" max_length="32" name="cs_approval" reference="x_65262_market_user_mst" type="reference"/>
+        <element label="Cs Person" max_length="32" name="cs_person" reference="x_65262_market_user_mst" type="reference"/>
+        <element label="Design Person" max_length="32" name="design_person" reference="x_65262_market_user_mst" type="reference"/>
+        <element display="true" label="Disposal No" max_length="8" name="disposal_no" type="string"/>
+        <element label="Fourth Division Approval" max_length="32" name="fourth_division_approval" reference="x_65262_market_user_mst" type="reference"/>
+        <element label="Fourth Draft Person" max_length="32" name="fourth_draft_person" reference="x_65262_market_user_mst" type="reference"/>
+        <element label="Material Person" max_length="32" name="material_person" reference="x_65262_market_user_mst" type="reference"/>
+        <element choice="1" label="status" max_length="40" name="status" type="choice">
+            <choice>
+                <element label="4課確認中" value="150"/>
+                <element label="4課確認中" value="240"/>
+                <element label="CS確認中" value="120"/>
+                <element label="取り下げ" value="990"/>
+                <element label="取引先確認中" value="230"/>
+                <element label="取引先確認中" value="160"/>
+                <element label="廃棄済み" value="210"/>
+                <element label="廃棄結果確認中" value="170"/>
+                <element label="指示書確認中" value="180"/>
+                <element label="棚卸済み" value="250"/>
+                <element label="記入中" value="220"/>
+                <element label="記入中" value="110"/>
+                <element label="設計確認中" value="140"/>
+                <element label="証明書作成中" value="190"/>
+                <element label="証明書確認中" value="200"/>
+                <element label="資材確認中" value="130"/>
+            </choice>
+        </element>
+    </element>
+</database>

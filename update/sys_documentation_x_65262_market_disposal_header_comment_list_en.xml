@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="comment_list" label="Comment List" language="en" table="x_65262_market_disposal_header">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>comment_list</element>
+            <help/>
+            <hint/>
+            <label>Comment List</label>
+            <language>en</language>
+            <name>x_65262_market_disposal_header</name>
+            <plural>Comment Lists</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-30 02:06:47</sys_created_on>
+            <sys_id>f91a08720f020300f0ed489ce1050ec5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Comment List</sys_name>
+            <sys_package display_value="market" source="x_65262_market">eb4045760f300300f0ed489ce1050ea4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="market">eb4045760f300300f0ed489ce1050ea4</sys_scope>
+            <sys_update_name>sys_documentation_x_65262_market_disposal_header_comment_list_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-30 02:06:47</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

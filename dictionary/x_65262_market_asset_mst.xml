@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element label="asset_mst" max_length="40" name="x_65262_market_asset_mst" type="collection">
-        <element display="true" label="Assets No" max_length="32" name="assets_no" reference="x_65262_market_tooling_detail" type="reference"/>
+        <element label="Assets No" max_length="32" name="assets_no" reference="x_65262_market_tooling_detail" type="reference"/>
+        <element display="true" label="Assets No" max_length="10" name="assets_no_reference" type="string"/>
         <element choice="1" label="Assets Status" max_length="40" name="assets_status" type="choice">
             <choice>
                 <element label="statusA" value="10"/>

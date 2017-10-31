@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="担当者マスタ" max_length="40" name="x_65262_market_user_mst" type="collection">
+        <element choice="1" label="Category Down" max_length="40" name="category_down" type="choice">
+            <choice>
+                <element label="メカ部品" value="1"/>
+                <element label="半導体" value="3"/>
+                <element label="電気部品" value="2"/>
+            </choice>
+        </element>
+        <element label="Default Flg" max_length="40" name="default_flg" type="boolean"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element choice="1" label="Position Type" max_length="40" name="position_type" type="choice">
+            <choice>
+                <element label="4課承認者" value="120"/>
+                <element label="4課起案者" value="110"/>
+                <element label="CS承認者" value="140"/>
+                <element label="CS担当者" value="130"/>
+                <element label="設計部担当" value="160"/>
+                <element label="資材課担当" value="150"/>
+            </choice>
+        </element>
+        <element label="User Id" max_length="32" name="user_id" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="user_id"/>
+        </index>
+    </element>
+</database>

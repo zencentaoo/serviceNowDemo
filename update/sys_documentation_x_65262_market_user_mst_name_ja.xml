@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_documentation element="assets_no_display" label="資産番号" language="ja" table="x_65262_market_disposal_list">
+    <sys_documentation element="name" label="名前" language="ja" table="x_65262_market_user_mst">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>assets_no_display</element>
+            <element>name</element>
             <help/>
             <hint/>
-            <label>資産番号</label>
+            <label>名前</label>
             <language>ja</language>
-            <name>x_65262_market_disposal_list</name>
-            <plural>資産番号</plural>
+            <name>x_65262_market_user_mst</name>
+            <plural>名前</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 02:41:42</sys_created_on>
-            <sys_id>368827cb0f794300f0ed489ce1050e1e</sys_id>
+            <sys_created_on>2017-10-27 06:54:17</sys_created_on>
+            <sys_id>ba1fed7d0f420300f0ed489ce1050e05</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>資産番号</sys_name>
+            <sys_name>名前</sys_name>
             <sys_package display_value="market" source="x_65262_market">eb4045760f300300f0ed489ce1050ea4</sys_package>
             <sys_policy/>
             <sys_scope display_value="market">eb4045760f300300f0ed489ce1050ea4</sys_scope>
-            <sys_update_name>sys_documentation_x_65262_market_disposal_list_assets_no_display_ja</sys_update_name>
+            <sys_update_name>sys_documentation_x_65262_market_user_mst_name_ja</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 02:41:42</sys_updated_on>
+            <sys_updated_on>2017-10-27 06:54:17</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

@@ -5,587 +5,587 @@
             <element>assets_no</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>859e30970f3d4300f0ed489ce1050e7f</sys_id>
+            <sys_created_on>2017-10-30 05:51:30</sys_created_on>
+            <sys_id>e18df03e0f420300f0ed489ce1050ed9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assets_no_reference</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-30 05:51:30</sys_created_on>
+            <sys_id>658df03e0f420300f0ed489ce1050ed9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-30 05:51:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>delivery_destination_code</element>
-            <position>1</position>
+            <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>099e30970f3d4300f0ed489ce1050e7f</sys_id>
+            <sys_created_on>2017-10-30 05:51:30</sys_created_on>
+            <sys_id>e58df03e0f420300f0ed489ce1050ed9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>end_off</element>
-            <position>2</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>899e30970f3d4300f0ed489ce1050e7f</sys_id>
+            <sys_created_on>2017-10-30 05:51:30</sys_created_on>
+            <sys_id>698df03e0f420300f0ed489ce1050ed9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>3</position>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>0d9e30970f3d4300f0ed489ce1050e7f</sys_id>
+            <sys_created_on>2017-10-30 05:51:30</sys_created_on>
+            <sys_id>e98df03e0f420300f0ed489ce1050ed9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:30</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>final_operation_month</element>
-            <position>4</position>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>8d9e30970f3d4300f0ed489ce1050e7f</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>6d8df03e0f420300f0ed489ce1050ed9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>jcr_own</element>
-            <position>5</position>
+            <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>019e30970f3d4300f0ed489ce1050e80</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>ed8df03e0f420300f0ed489ce1050ed9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>6</position>
+            <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>819e30970f3d4300f0ed489ce1050e80</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>618df03e0f420300f0ed489ce1050eda</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>operation_status</element>
-            <position>7</position>
+            <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>059e30970f3d4300f0ed489ce1050e80</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>e18df03e0f420300f0ed489ce1050eda</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>operation_status_remarks</element>
-            <position>8</position>
+            <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>859e30970f3d4300f0ed489ce1050e80</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>658df03e0f420300f0ed489ce1050eda</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>part_output_final_month</element>
-            <position>9</position>
+            <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>099e30970f3d4300f0ed489ce1050e80</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>e58df03e0f420300f0ed489ce1050eda</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>three_years_operations</element>
-            <position>10</position>
+            <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>899e30970f3d4300f0ed489ce1050e80</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>698df03e0f420300f0ed489ce1050eda</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>comments</element>
-            <position>11</position>
+            <position>12</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>0d9e30970f3d4300f0ed489ce1050e80</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>e98df03e0f420300f0ed489ce1050eda</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>material_disposal_check</element>
-            <position>12</position>
+            <position>13</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>8d9e30970f3d4300f0ed489ce1050e80</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>6d8df03e0f420300f0ed489ce1050eda</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>material_disposal_ng_reason</element>
-            <position>13</position>
+            <position>14</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>019e30970f3d4300f0ed489ce1050e81</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>ed8df03e0f420300f0ed489ce1050eda</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>pre_material</element>
-            <position>14</position>
+            <position>15</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>819e30970f3d4300f0ed489ce1050e81</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>618df03e0f420300f0ed489ce1050edb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>supplier_code</element>
-            <position>15</position>
+            <position>16</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>059e30970f3d4300f0ed489ce1050e81</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>e18df03e0f420300f0ed489ce1050edb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.begin_split</element>
-            <position>16</position>
+            <position>17</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>859e30970f3d4300f0ed489ce1050e81</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>658df03e0f420300f0ed489ce1050edb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>carrying_now</element>
-            <position>17</position>
+            <position>18</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>099e30970f3d4300f0ed489ce1050e81</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>e58df03e0f420300f0ed489ce1050edb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>18</position>
+            <position>19</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>899e30970f3d4300f0ed489ce1050e81</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>698df03e0f420300f0ed489ce1050edb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>deliver_date</element>
-            <position>19</position>
+            <position>20</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>0d9e30970f3d4300f0ed489ce1050e81</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>e98df03e0f420300f0ed489ce1050edb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>20</position>
+            <position>21</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>8d9e30970f3d4300f0ed489ce1050e81</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>6d8df03e0f420300f0ed489ce1050edb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>location_cd</element>
-            <position>21</position>
+            <position>22</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>019e30970f3d4300f0ed489ce1050e82</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>ed8df03e0f420300f0ed489ce1050edb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>location_name</element>
-            <position>22</position>
+            <position>23</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>819e30970f3d4300f0ed489ce1050e82</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>618df03e0f420300f0ed489ce1050edc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.begin_split</element>
-            <position>23</position>
+            <position>24</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>059e30970f3d4300f0ed489ce1050e82</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>e18df03e0f420300f0ed489ce1050edc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>material_molding</element>
-            <position>24</position>
+            <position>25</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>859e30970f3d4300f0ed489ce1050e82</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>658df03e0f420300f0ed489ce1050edc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>material_tooling</element>
-            <position>25</position>
+            <position>26</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>099e30970f3d4300f0ed489ce1050e82</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>e58df03e0f420300f0ed489ce1050edc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>26</position>
+            <position>27</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>899e30970f3d4300f0ed489ce1050e82</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>698df03e0f420300f0ed489ce1050edc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>order_no_date</element>
-            <position>27</position>
+            <position>28</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>0d9e30970f3d4300f0ed489ce1050e82</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>e98df03e0f420300f0ed489ce1050edc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>28</position>
+            <position>29</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>8d9e30970f3d4300f0ed489ce1050e82</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>6d8df03e0f420300f0ed489ce1050edc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>output_factory</element>
-            <position>29</position>
+            <position>30</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>019e30970f3d4300f0ed489ce1050e83</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>ed8df03e0f420300f0ed489ce1050edc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>purchase_price</element>
-            <position>30</position>
+            <position>31</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>819e30970f3d4300f0ed489ce1050e83</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>618df03e0f420300f0ed489ce1050edd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>supplier_name</element>
-            <position>31</position>
+            <position>32</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>059e30970f3d4300f0ed489ce1050e83</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>e18df03e0f420300f0ed489ce1050edd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>assets_remarks</element>
-            <position>32</position>
+            <position>33</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>859e30970f3d4300f0ed489ce1050e83</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>658df03e0f420300f0ed489ce1050edd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>category</element>
-            <position>33</position>
+            <position>34</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>099e30970f3d4300f0ed489ce1050e83</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>e58df03e0f420300f0ed489ce1050edd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>delivery_destination_name</element>
-            <position>34</position>
+            <position>35</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>899e30970f3d4300f0ed489ce1050e83</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>698df03e0f420300f0ed489ce1050edd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.begin_split</element>
-            <position>35</position>
+            <position>36</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>0d9e30970f3d4300f0ed489ce1050e83</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>e98df03e0f420300f0ed489ce1050edd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>disk_decision</element>
-            <position>36</position>
+            <position>37</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>8d9e30970f3d4300f0ed489ce1050e83</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>6d8df03e0f420300f0ed489ce1050edd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>37</position>
+            <position>38</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>019e30970f3d4300f0ed489ce1050e84</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>ed8df03e0f420300f0ed489ce1050edd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>disposal_hope</element>
-            <position>38</position>
+            <position>39</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>819e30970f3d4300f0ed489ce1050e84</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>618df03e0f420300f0ed489ce1050ede</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>39</position>
+            <position>40</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>059e30970f3d4300f0ed489ce1050e84</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>e18df03e0f420300f0ed489ce1050ede</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>hope_reason</element>
-            <position>40</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>859e30970f3d4300f0ed489ce1050e84</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>reference_assets_no</element>
             <position>41</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>099e30970f3d4300f0ed489ce1050e84</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>658df03e0f420300f0ed489ce1050ede</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -593,13 +593,13 @@
             <element>cs_comments</element>
             <position>42</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>899e30970f3d4300f0ed489ce1050e84</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>e58df03e0f420300f0ed489ce1050ede</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -607,13 +607,13 @@
             <element>cs_decision</element>
             <position>43</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>0d9e30970f3d4300f0ed489ce1050e84</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>698df03e0f420300f0ed489ce1050ede</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -621,13 +621,13 @@
             <element>model_name</element>
             <position>44</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>8d9e30970f3d4300f0ed489ce1050e84</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>e98df03e0f420300f0ed489ce1050ede</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -635,13 +635,13 @@
             <element>order_person</element>
             <position>45</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>019e30970f3d4300f0ed489ce1050e85</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>6d8df03e0f420300f0ed489ce1050ede</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -649,13 +649,13 @@
             <element>part_name</element>
             <position>46</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>819e30970f3d4300f0ed489ce1050e85</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>ed8df03e0f420300f0ed489ce1050ede</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -663,13 +663,13 @@
             <element>.begin_split</element>
             <position>47</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>059e30970f3d4300f0ed489ce1050e85</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>618df03e0f420300f0ed489ce1050edf</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -677,13 +677,13 @@
             <element>part_no</element>
             <position>48</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>859e30970f3d4300f0ed489ce1050e85</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>e18df03e0f420300f0ed489ce1050edf</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -691,13 +691,13 @@
             <element>past_years</element>
             <position>49</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>099e30970f3d4300f0ed489ce1050e85</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>658df03e0f420300f0ed489ce1050edf</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -705,13 +705,13 @@
             <element>.split</element>
             <position>50</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>899e30970f3d4300f0ed489ce1050e85</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>e58df03e0f420300f0ed489ce1050edf</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -719,13 +719,13 @@
             <element>same_count</element>
             <position>51</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>0d9e30970f3d4300f0ed489ce1050e85</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>698df03e0f420300f0ed489ce1050edf</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -733,13 +733,13 @@
             <element>toolings_residual_flag</element>
             <position>52</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>8d9e30970f3d4300f0ed489ce1050e85</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>e98df03e0f420300f0ed489ce1050edf</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -747,13 +747,13 @@
             <element>.end_split</element>
             <position>53</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>019e30970f3d4300f0ed489ce1050e86</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>6d8df03e0f420300f0ed489ce1050edf</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -761,13 +761,13 @@
             <element>tooling_type</element>
             <position>54</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>819e30970f3d4300f0ed489ce1050e86</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>ed8df03e0f420300f0ed489ce1050edf</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -775,13 +775,13 @@
             <element>.begin_split</element>
             <position>55</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>059e30970f3d4300f0ed489ce1050e86</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>618df03e0f420300f0ed489ce1050ee0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -789,13 +789,13 @@
             <element>catalog_status</element>
             <position>56</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>859e30970f3d4300f0ed489ce1050e86</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>e18df03e0f420300f0ed489ce1050ee0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -803,13 +803,13 @@
             <element>.split</element>
             <position>57</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>099e30970f3d4300f0ed489ce1050e86</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>658df03e0f420300f0ed489ce1050ee0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -817,13 +817,13 @@
             <element>cs_supply_part_name</element>
             <position>58</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>899e30970f3d4300f0ed489ce1050e86</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>e58df03e0f420300f0ed489ce1050ee0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -831,13 +831,13 @@
             <element>.end_split</element>
             <position>59</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>0d9e30970f3d4300f0ed489ce1050e86</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>698df03e0f420300f0ed489ce1050ee0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -845,13 +845,13 @@
             <element>cs_supply_part_remarks</element>
             <position>60</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>8d9e30970f3d4300f0ed489ce1050e86</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>e98df03e0f420300f0ed489ce1050ee0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -859,13 +859,13 @@
             <element>.begin_split</element>
             <position>61</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>019e30970f3d4300f0ed489ce1050e87</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>6d8df03e0f420300f0ed489ce1050ee0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -873,13 +873,13 @@
             <element>disposal_person</element>
             <position>62</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>819e30970f3d4300f0ed489ce1050e87</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>ed8df03e0f420300f0ed489ce1050ee0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -887,13 +887,13 @@
             <element>recent_raising</element>
             <position>63</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>059e30970f3d4300f0ed489ce1050e87</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>618df03e0f420300f0ed489ce1050ee1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -901,13 +901,13 @@
             <element>.split</element>
             <position>64</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>859e30970f3d4300f0ed489ce1050e87</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>e18df03e0f420300f0ed489ce1050ee1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -915,13 +915,13 @@
             <element>rhq_output</element>
             <position>65</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>099e30970f3d4300f0ed489ce1050e87</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>658df03e0f420300f0ed489ce1050ee1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -929,13 +929,13 @@
             <element>.end_split</element>
             <position>66</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>899e30970f3d4300f0ed489ce1050e87</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>e58df03e0f420300f0ed489ce1050ee1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -943,13 +943,13 @@
             <element>disposal_object</element>
             <position>67</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>0d9e30970f3d4300f0ed489ce1050e87</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>698df03e0f420300f0ed489ce1050ee1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -957,13 +957,13 @@
             <element>multiple_flag</element>
             <position>68</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>8d9e30970f3d4300f0ed489ce1050e87</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>e98df03e0f420300f0ed489ce1050ee1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -971,13 +971,13 @@
             <element>special_tooling</element>
             <position>69</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 08:57:24</sys_created_on>
-            <sys_id>019e30970f3d4300f0ed489ce1050e88</sys_id>
+            <sys_created_on>2017-10-30 05:51:31</sys_created_on>
+            <sys_id>6d8df03e0f420300f0ed489ce1050ee1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_65262_market_disposal_list" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">404db4570f3d4300f0ed489ce1050e14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 08:57:24</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:51:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

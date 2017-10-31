@@ -5,13 +5,13 @@
             <element>assets_no.supplier_code</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 07:04:10</sys_created_on>
-            <sys_id>52a4601b0ff94300f0ed489ce1050ee7</sys_id>
+            <sys_created_on>2017-10-30 05:21:21</sys_created_on>
+            <sys_id>3b96b43a0f420300f0ed489ce1050e65</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="取引先情報" display_value="取引先情報" name="x_65262_market_asset_mst" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">a67798530ff94300f0ed489ce1050eeb</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 07:04:10</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:21:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,13 +19,13 @@
             <element>assets_no.supplier_name</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 07:04:10</sys_created_on>
-            <sys_id>d2a4601b0ff94300f0ed489ce1050ee7</sys_id>
+            <sys_created_on>2017-10-30 05:21:21</sys_created_on>
+            <sys_id>bb96b43a0f420300f0ed489ce1050e65</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="取引先情報" display_value="取引先情報" name="x_65262_market_asset_mst" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">a67798530ff94300f0ed489ce1050eeb</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 07:04:10</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:21:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -33,13 +33,13 @@
             <element>.split</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 07:04:10</sys_created_on>
-            <sys_id>56a4601b0ff94300f0ed489ce1050ee7</sys_id>
+            <sys_created_on>2017-10-30 05:21:21</sys_created_on>
+            <sys_id>3f96b43a0f420300f0ed489ce1050e65</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="取引先情報" display_value="取引先情報" name="x_65262_market_asset_mst" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">a67798530ff94300f0ed489ce1050eeb</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 07:04:10</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:21:21</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -47,13 +47,13 @@
             <element>assets_no.disposal_hope</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 07:04:10</sys_created_on>
-            <sys_id>d6a4601b0ff94300f0ed489ce1050ee7</sys_id>
+            <sys_created_on>2017-10-30 05:21:21</sys_created_on>
+            <sys_id>bf96b43a0f420300f0ed489ce1050e65</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="取引先情報" display_value="取引先情報" name="x_65262_market_asset_mst" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">a67798530ff94300f0ed489ce1050eeb</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 07:04:10</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:21:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -61,13 +61,13 @@
             <element>assets_no.actual_received_country</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 07:04:10</sys_created_on>
-            <sys_id>5aa4601b0ff94300f0ed489ce1050ee7</sys_id>
+            <sys_created_on>2017-10-30 05:21:21</sys_created_on>
+            <sys_id>3396b43a0f420300f0ed489ce1050e66</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="取引先情報" display_value="取引先情報" name="x_65262_market_asset_mst" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">a67798530ff94300f0ed489ce1050eeb</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 07:04:10</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:21:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -75,13 +75,13 @@
             <element>.end_split</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 07:04:10</sys_created_on>
-            <sys_id>daa4601b0ff94300f0ed489ce1050ee7</sys_id>
+            <sys_created_on>2017-10-30 05:21:21</sys_created_on>
+            <sys_id>b396b43a0f420300f0ed489ce1050e66</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="取引先情報" display_value="取引先情報" name="x_65262_market_asset_mst" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">a67798530ff94300f0ed489ce1050eeb</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 07:04:10</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:21:21</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -89,13 +89,13 @@
             <element>.begin_split</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 07:04:10</sys_created_on>
-            <sys_id>5ea4601b0ff94300f0ed489ce1050ee7</sys_id>
+            <sys_created_on>2017-10-30 05:21:21</sys_created_on>
+            <sys_id>3796b43a0f420300f0ed489ce1050e66</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="取引先情報" display_value="取引先情報" name="x_65262_market_asset_mst" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">a67798530ff94300f0ed489ce1050eeb</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 07:04:10</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:21:21</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -103,13 +103,13 @@
             <element>assets_no.responsible_company_code</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 07:04:10</sys_created_on>
-            <sys_id>dea4601b0ff94300f0ed489ce1050ee7</sys_id>
+            <sys_created_on>2017-10-30 05:21:21</sys_created_on>
+            <sys_id>b796b43a0f420300f0ed489ce1050e66</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="取引先情報" display_value="取引先情報" name="x_65262_market_asset_mst" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">a67798530ff94300f0ed489ce1050eeb</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 07:04:10</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:21:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -117,13 +117,13 @@
             <element>.split</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 07:04:10</sys_created_on>
-            <sys_id>52a4601b0ff94300f0ed489ce1050ee8</sys_id>
+            <sys_created_on>2017-10-30 05:21:21</sys_created_on>
+            <sys_id>3b96b43a0f420300f0ed489ce1050e66</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="取引先情報" display_value="取引先情報" name="x_65262_market_asset_mst" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">a67798530ff94300f0ed489ce1050eeb</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 07:04:10</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:21:21</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -131,13 +131,13 @@
             <element>.end_split</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 07:04:10</sys_created_on>
-            <sys_id>d2a4601b0ff94300f0ed489ce1050ee8</sys_id>
+            <sys_created_on>2017-10-30 05:21:21</sys_created_on>
+            <sys_id>bb96b43a0f420300f0ed489ce1050e66</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="取引先情報" display_value="取引先情報" name="x_65262_market_asset_mst" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">a67798530ff94300f0ed489ce1050eeb</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 07:04:10</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:21:21</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -145,13 +145,13 @@
             <element>.begin_split</element>
             <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 07:04:10</sys_created_on>
-            <sys_id>56a4601b0ff94300f0ed489ce1050ee8</sys_id>
+            <sys_created_on>2017-10-30 05:21:21</sys_created_on>
+            <sys_id>3f96b43a0f420300f0ed489ce1050e66</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="取引先情報" display_value="取引先情報" name="x_65262_market_asset_mst" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">a67798530ff94300f0ed489ce1050eeb</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 07:04:10</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:21:21</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -159,13 +159,13 @@
             <element>assets_no.responsible_company</element>
             <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 07:04:10</sys_created_on>
-            <sys_id>d6a4601b0ff94300f0ed489ce1050ee8</sys_id>
+            <sys_created_on>2017-10-30 05:21:21</sys_created_on>
+            <sys_id>bf96b43a0f420300f0ed489ce1050e66</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="取引先情報" display_value="取引先情報" name="x_65262_market_asset_mst" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">a67798530ff94300f0ed489ce1050eeb</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 07:04:10</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:21:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -173,13 +173,13 @@
             <element>.split</element>
             <position>12</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 07:04:10</sys_created_on>
-            <sys_id>5aa4601b0ff94300f0ed489ce1050ee8</sys_id>
+            <sys_created_on>2017-10-30 05:21:21</sys_created_on>
+            <sys_id>3396b43a0f420300f0ed489ce1050e67</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="取引先情報" display_value="取引先情報" name="x_65262_market_asset_mst" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">a67798530ff94300f0ed489ce1050eeb</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 07:04:10</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:21:21</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -187,13 +187,13 @@
             <element>assets_no.original_country</element>
             <position>13</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 07:04:10</sys_created_on>
-            <sys_id>daa4601b0ff94300f0ed489ce1050ee8</sys_id>
+            <sys_created_on>2017-10-30 05:21:21</sys_created_on>
+            <sys_id>b396b43a0f420300f0ed489ce1050e67</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="取引先情報" display_value="取引先情報" name="x_65262_market_asset_mst" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">a67798530ff94300f0ed489ce1050eeb</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 07:04:10</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:21:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -201,13 +201,13 @@
             <element>.end_split</element>
             <position>14</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 07:04:10</sys_created_on>
-            <sys_id>5ea4601b0ff94300f0ed489ce1050ee8</sys_id>
+            <sys_created_on>2017-10-30 05:21:21</sys_created_on>
+            <sys_id>3796b43a0f420300f0ed489ce1050e67</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="取引先情報" display_value="取引先情報" name="x_65262_market_asset_mst" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">a67798530ff94300f0ed489ce1050eeb</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 07:04:10</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:21:21</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -215,13 +215,13 @@
             <element>.begin_split</element>
             <position>15</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 07:04:10</sys_created_on>
-            <sys_id>dea4601b0ff94300f0ed489ce1050ee8</sys_id>
+            <sys_created_on>2017-10-30 05:21:21</sys_created_on>
+            <sys_id>b796b43a0f420300f0ed489ce1050e67</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="取引先情報" display_value="取引先情報" name="x_65262_market_asset_mst" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">a67798530ff94300f0ed489ce1050eeb</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 07:04:10</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:21:21</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -229,13 +229,13 @@
             <element>assets_no.responsible_company_country</element>
             <position>16</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 07:04:10</sys_created_on>
-            <sys_id>52a4601b0ff94300f0ed489ce1050ee9</sys_id>
+            <sys_created_on>2017-10-30 05:21:21</sys_created_on>
+            <sys_id>3b96b43a0f420300f0ed489ce1050e67</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="取引先情報" display_value="取引先情報" name="x_65262_market_asset_mst" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">a67798530ff94300f0ed489ce1050eeb</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 07:04:10</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:21:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -243,13 +243,13 @@
             <element>.split</element>
             <position>17</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 07:04:10</sys_created_on>
-            <sys_id>d2a4601b0ff94300f0ed489ce1050ee9</sys_id>
+            <sys_created_on>2017-10-30 05:21:21</sys_created_on>
+            <sys_id>bb96b43a0f420300f0ed489ce1050e67</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="取引先情報" display_value="取引先情報" name="x_65262_market_asset_mst" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">a67798530ff94300f0ed489ce1050eeb</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 07:04:10</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:21:21</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -257,153 +257,111 @@
             <element>.end_split</element>
             <position>18</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 07:04:10</sys_created_on>
-            <sys_id>56a4601b0ff94300f0ed489ce1050ee9</sys_id>
+            <sys_created_on>2017-10-30 05:21:21</sys_created_on>
+            <sys_id>3f96b43a0f420300f0ed489ce1050e67</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="取引先情報" display_value="取引先情報" name="x_65262_market_asset_mst" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">a67798530ff94300f0ed489ce1050eeb</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 07:04:10</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:21:21</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.begin_split</element>
+            <element>assets_no.output_factory</element>
             <position>19</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 07:04:10</sys_created_on>
-            <sys_id>d6a4601b0ff94300f0ed489ce1050ee9</sys_id>
+            <sys_created_on>2017-10-30 05:21:21</sys_created_on>
+            <sys_id>bf96b43a0f420300f0ed489ce1050e67</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="取引先情報" display_value="取引先情報" name="x_65262_market_asset_mst" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">a67798530ff94300f0ed489ce1050eeb</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 07:04:10</sys_updated_on>
-            <sys_user/>
-            <type>.begin_split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.split</element>
-            <position>20</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 07:04:10</sys_created_on>
-            <sys_id>5aa4601b0ff94300f0ed489ce1050ee9</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="取引先情報" display_value="取引先情報" name="x_65262_market_asset_mst" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">a67798530ff94300f0ed489ce1050eeb</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 07:04:10</sys_updated_on>
-            <sys_user/>
-            <type>.split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>assets_no.output_factory</element>
-            <position>21</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 07:04:10</sys_created_on>
-            <sys_id>daa4601b0ff94300f0ed489ce1050ee9</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="取引先情報" display_value="取引先情報" name="x_65262_market_asset_mst" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">a67798530ff94300f0ed489ce1050eeb</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 07:04:10</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:21:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.end_split</element>
-            <position>22</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 07:04:10</sys_created_on>
-            <sys_id>5ea4601b0ff94300f0ed489ce1050ee9</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="取引先情報" display_value="取引先情報" name="x_65262_market_asset_mst" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">a67798530ff94300f0ed489ce1050eeb</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 07:04:10</sys_updated_on>
-            <sys_user/>
-            <type>.end_split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.begin_split</element>
-            <position>23</position>
+            <position>20</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 07:04:10</sys_created_on>
-            <sys_id>dea4601b0ff94300f0ed489ce1050ee9</sys_id>
+            <sys_created_on>2017-10-30 05:21:21</sys_created_on>
+            <sys_id>3396b43a0f420300f0ed489ce1050e68</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="取引先情報" display_value="取引先情報" name="x_65262_market_asset_mst" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">a67798530ff94300f0ed489ce1050eeb</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 07:04:10</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:21:21</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>assets_no.actual_location_code</element>
-            <position>24</position>
+            <position>21</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 07:04:10</sys_created_on>
-            <sys_id>52a4601b0ff94300f0ed489ce1050eea</sys_id>
+            <sys_created_on>2017-10-30 05:21:21</sys_created_on>
+            <sys_id>b396b43a0f420300f0ed489ce1050e68</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="取引先情報" display_value="取引先情報" name="x_65262_market_asset_mst" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">a67798530ff94300f0ed489ce1050eeb</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 07:04:10</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:21:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>assets_no.actual_location_name</element>
-            <position>25</position>
+            <position>22</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 07:04:10</sys_created_on>
-            <sys_id>d2a4601b0ff94300f0ed489ce1050eea</sys_id>
+            <sys_created_on>2017-10-30 05:21:21</sys_created_on>
+            <sys_id>3796b43a0f420300f0ed489ce1050e68</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="取引先情報" display_value="取引先情報" name="x_65262_market_asset_mst" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">a67798530ff94300f0ed489ce1050eeb</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 07:04:10</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:21:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>assets_no.actual_location_country</element>
-            <position>26</position>
+            <position>23</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 07:04:10</sys_created_on>
-            <sys_id>56a4601b0ff94300f0ed489ce1050eea</sys_id>
+            <sys_created_on>2017-10-30 05:21:21</sys_created_on>
+            <sys_id>b796b43a0f420300f0ed489ce1050e68</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="取引先情報" display_value="取引先情報" name="x_65262_market_asset_mst" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">a67798530ff94300f0ed489ce1050eeb</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 07:04:10</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:21:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>27</position>
+            <position>24</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 07:04:10</sys_created_on>
-            <sys_id>d6a4601b0ff94300f0ed489ce1050eea</sys_id>
+            <sys_created_on>2017-10-30 05:21:21</sys_created_on>
+            <sys_id>3b96b43a0f420300f0ed489ce1050e68</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="取引先情報" display_value="取引先情報" name="x_65262_market_asset_mst" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">a67798530ff94300f0ed489ce1050eeb</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 07:04:10</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:21:21</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>assets_no.use_type</element>
-            <position>28</position>
+            <position>25</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-10-19 07:04:10</sys_created_on>
-            <sys_id>5aa4601b0ff94300f0ed489ce1050eea</sys_id>
+            <sys_created_on>2017-10-30 05:21:21</sys_created_on>
+            <sys_id>bb96b43a0f420300f0ed489ce1050e68</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="取引先情報" display_value="取引先情報" name="x_65262_market_asset_mst" sys_domain="global" view="fbb4e7100f2d0300f0ed489ce1050e7c">a67798530ff94300f0ed489ce1050eeb</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-10-19 07:04:10</sys_updated_on>
+            <sys_updated_on>2017-10-30 05:21:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
